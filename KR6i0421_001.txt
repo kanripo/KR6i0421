@@ -1,23 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:12.609285
+#+DATE: 2015-08-30 20:19:13.255088
 #+TITLE: 十不善業道經
 #+PROPERTY: CBETA_ID T17n0727
 #+PROPERTY: ID KR6i0421
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 727
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0421_T_001-0457c> 
 #+PROPERTY: JUAN 1
 ¶
-No.727¶
-
- 《十不善業道經》¶
+No. 727¶
+《十不善業道經》¶
 ¶
 馬鳴菩薩集¶
-西天譯經三藏朝散大夫¶
-試鴻臚少卿宣梵大師賜紫¶
-沙門臣日稱等奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚少卿宣梵大師賜紫沙門臣日稱等奉　詔譯¶
 
 此十不善業道，體性是罪，若樂求佛道者，遠離¶
 彼過，當如是知。
