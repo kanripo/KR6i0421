@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十不善業道經
+#+DATE: 2015-08-30 20:19:12.792414
+#+PROPERTY: JUAN 0
