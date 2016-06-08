@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.255088
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:32
 #+TITLE: 十不善業道經
 #+PROPERTY: CBETA_ID T17n0727
 #+PROPERTY: ID KR6i0421
