@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:32
+#+DATE: 2016-06-08 9:33
 #+TITLE: 十不善業道經
 #+PROPERTY: CBETA_ID T17n0727
 #+PROPERTY: ID KR6i0421
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 727
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0421_T_001-0457c> 
 #+PROPERTY: JUAN 1
 ¶
@@ -31,7 +31,7 @@ No. 727¶
 
 云何不與取？謂於他物先窺¶
 覘已，而起審慮，決定欲取，動身所作，即盜其¶
-物。具足五緣，成不與取罪。
+物。具是五緣，成不與取罪。
 
 云何欲邪行？於此¶
 罪中而有四類，非處、非時、非分、非往。非處者，¶
